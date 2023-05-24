@@ -1,3 +1,5 @@
+## Similar problem on leetcode
+## https://leetcode.com/problems/climbing-stairs/
 ## Jumping on the Clouds
 ## https://www.hackerrank.com/challenges/jumping-on-the-clouds/
 
